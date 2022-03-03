@@ -7,15 +7,57 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C02FDD527CF850A00BC2C54 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2C02FDD427CF850900BC2C54 /* GoogleService-Info.plist */; };
+		2C02FDDB27CFA85F00BC2C54 /* Showpiece.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C02FDDA27CFA85F00BC2C54 /* Showpiece.swift */; };
+		2C6B5A5227CFBDE900D4EC89 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6B5A5127CFBDE900D4EC89 /* Constants.swift */; };
+		2C6B5A5427CFBDF600D4EC89 /* Tour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6B5A5327CFBDF600D4EC89 /* Tour.swift */; };
+		2C6B5A5627CFC0B800D4EC89 /* TourDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6B5A5527CFC0B800D4EC89 /* TourDetailViewController.swift */; };
+		2C6B5A5827CFD06100D4EC89 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6B5A5727CFD06100D4EC89 /* MainViewController.swift */; };
+		2C6B5A5A27CFD23D00D4EC89 /* PopularViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6B5A5927CFD23D00D4EC89 /* PopularViewCell.swift */; };
+		2C6B5A5C27CFD57A00D4EC89 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C6B5A5B27CFD57A00D4EC89 /* Helpers.swift */; };
+		2C8101A227CFEF7800069063 /* YearsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8101A127CFEF7800069063 /* YearsCell.swift */; };
+		2C8101A627CFFE7B00069063 /* ReusableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8101A527CFFE7B00069063 /* ReusableTableViewController.swift */; };
+		2C8101A827D008CF00069063 /* ReusableListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8101A727D008CF00069063 /* ReusableListCell.swift */; };
+		2C8101AA27D0119E00069063 /* ShowpieceDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8101A927D0119E00069063 /* ShowpieceDetailsViewController.swift */; };
+		2C8101AC27D06AA900069063 /* temp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8101AB27D06AA900069063 /* temp.swift */; };
+		2C8101AE27D0733B00069063 /* Снимок экрана 2022-03-03 в 06.53.20.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C8101AD27D0733B00069063 /* Снимок экрана 2022-03-03 в 06.53.20.png */; };
+		2C8101B027D0833200069063 /* AboutMuseumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8101AF27D0833200069063 /* AboutMuseumViewController.swift */; };
+		2C8ADEA527CF7E7F00AF9EEF /* TourCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8ADEA427CF7E7F00AF9EEF /* TourCell.swift */; };
+		2C8ADEA827CF7F3600AF9EEF /* TourViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8ADEA627CF7F3600AF9EEF /* TourViewCell.swift */; };
+		2C8ADEA927CF7F3600AF9EEF /* TourViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2C8ADEA727CF7F3600AF9EEF /* TourViewCell.xib */; };
+		2C8ADEAB27CF82A200AF9EEF /* TourViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C8ADEAA27CF82A200AF9EEF /* TourViewController.swift */; };
+		2CB730A027CFE1EC00483762 /* CountryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CB7309F27CFE1EC00483762 /* CountryCell.swift */; };
 		2CEC76F927CF621B00F8FAD8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEC76F827CF621B00F8FAD8 /* AppDelegate.swift */; };
 		2CEC76FB27CF621B00F8FAD8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEC76FA27CF621B00F8FAD8 /* SceneDelegate.swift */; };
 		2CEC76FD27CF621B00F8FAD8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEC76FC27CF621B00F8FAD8 /* ViewController.swift */; };
 		2CEC770027CF621B00F8FAD8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CEC76FE27CF621B00F8FAD8 /* Main.storyboard */; };
 		2CEC770227CF621C00F8FAD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CEC770127CF621C00F8FAD8 /* Assets.xcassets */; };
 		2CEC770527CF621C00F8FAD8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CEC770327CF621C00F8FAD8 /* LaunchScreen.storyboard */; };
+		2CEC770D27CF698F00F8FAD8 /* WelcomeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CEC770C27CF698F00F8FAD8 /* WelcomeCell.swift */; };
+		732F98F191F9EC59C66A3F7E /* Pods_museum.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3C71DEF8B4EBB5DC4DA81D28 /* Pods_museum.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C02FDD427CF850900BC2C54 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		2C02FDDA27CFA85F00BC2C54 /* Showpiece.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Showpiece.swift; sourceTree = "<group>"; };
+		2C6B5A5127CFBDE900D4EC89 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		2C6B5A5327CFBDF600D4EC89 /* Tour.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tour.swift; sourceTree = "<group>"; };
+		2C6B5A5527CFC0B800D4EC89 /* TourDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TourDetailViewController.swift; sourceTree = "<group>"; };
+		2C6B5A5727CFD06100D4EC89 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		2C6B5A5927CFD23D00D4EC89 /* PopularViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopularViewCell.swift; sourceTree = "<group>"; };
+		2C6B5A5B27CFD57A00D4EC89 /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
+		2C8101A127CFEF7800069063 /* YearsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YearsCell.swift; sourceTree = "<group>"; };
+		2C8101A527CFFE7B00069063 /* ReusableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReusableTableViewController.swift; sourceTree = "<group>"; };
+		2C8101A727D008CF00069063 /* ReusableListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReusableListCell.swift; sourceTree = "<group>"; };
+		2C8101A927D0119E00069063 /* ShowpieceDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowpieceDetailsViewController.swift; sourceTree = "<group>"; };
+		2C8101AB27D06AA900069063 /* temp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = temp.swift; sourceTree = "<group>"; };
+		2C8101AD27D0733B00069063 /* Снимок экрана 2022-03-03 в 06.53.20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Снимок экрана 2022-03-03 в 06.53.20.png"; sourceTree = "<group>"; };
+		2C8101AF27D0833200069063 /* AboutMuseumViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutMuseumViewController.swift; sourceTree = "<group>"; };
+		2C8ADEA427CF7E7F00AF9EEF /* TourCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TourCell.swift; sourceTree = "<group>"; };
+		2C8ADEA627CF7F3600AF9EEF /* TourViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TourViewCell.swift; sourceTree = "<group>"; };
+		2C8ADEA727CF7F3600AF9EEF /* TourViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TourViewCell.xib; sourceTree = "<group>"; };
+		2C8ADEAA27CF82A200AF9EEF /* TourViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TourViewController.swift; sourceTree = "<group>"; };
+		2CB7309F27CFE1EC00483762 /* CountryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryCell.swift; sourceTree = "<group>"; };
 		2CEC76F527CF621B00F8FAD8 /* museum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = museum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CEC76F827CF621B00F8FAD8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2CEC76FA27CF621B00F8FAD8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +66,10 @@
 		2CEC770127CF621C00F8FAD8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CEC770427CF621C00F8FAD8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CEC770627CF621C00F8FAD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CEC770C27CF698F00F8FAD8 /* WelcomeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeCell.swift; sourceTree = "<group>"; };
+		3C71DEF8B4EBB5DC4DA81D28 /* Pods_museum.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_museum.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4EAF4D1CA2458BE1A6C0F213 /* Pods-museum.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-museum.release.xcconfig"; path = "Target Support Files/Pods-museum/Pods-museum.release.xcconfig"; sourceTree = "<group>"; };
+		7C7632A4B13DFBD01769B3AD /* Pods-museum.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-museum.debug.xcconfig"; path = "Target Support Files/Pods-museum/Pods-museum.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +77,60 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				732F98F191F9EC59C66A3F7E /* Pods_museum.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2C8ADEAC27CF82AD00AF9EEF /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2CEC76FC27CF621B00F8FAD8 /* ViewController.swift */,
+				2C8ADEAA27CF82A200AF9EEF /* TourViewController.swift */,
+				2C6B5A5727CFD06100D4EC89 /* MainViewController.swift */,
+				2C8101A527CFFE7B00069063 /* ReusableTableViewController.swift */,
+				2C8101A127CFEF7800069063 /* YearsCell.swift */,
+				2C8101AF27D0833200069063 /* AboutMuseumViewController.swift */,
+				2C6B5A5527CFC0B800D4EC89 /* TourDetailViewController.swift */,
+				2C8101A927D0119E00069063 /* ShowpieceDetailsViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		2C8ADEAD27CF82CF00AF9EEF /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				2CEC76FE27CF621B00F8FAD8 /* Main.storyboard */,
+				2C8ADEA627CF7F3600AF9EEF /* TourViewCell.swift */,
+				2C8ADEA727CF7F3600AF9EEF /* TourViewCell.xib */,
+				2C8101A727D008CF00069063 /* ReusableListCell.swift */,
+				2CB7309F27CFE1EC00483762 /* CountryCell.swift */,
+				2CEC770327CF621C00F8FAD8 /* LaunchScreen.storyboard */,
+				2C6B5A5927CFD23D00D4EC89 /* PopularViewCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		2C8ADEAE27CF82DD00AF9EEF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				2C6B5A5327CFBDF600D4EC89 /* Tour.swift */,
+				2C02FDDA27CFA85F00BC2C54 /* Showpiece.swift */,
+				2CEC770C27CF698F00F8FAD8 /* WelcomeCell.swift */,
+				2C8ADEA427CF7E7F00AF9EEF /* TourCell.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		2CEC76EC27CF621B00F8FAD8 = {
 			isa = PBXGroup;
 			children = (
 				2CEC76F727CF621B00F8FAD8 /* museum */,
 				2CEC76F627CF621B00F8FAD8 /* Products */,
+				547EB10F4ED999208447FC76 /* Pods */,
+				7AF94EE8B458F4A03E8CCBED /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,13 +147,35 @@
 			children = (
 				2CEC76F827CF621B00F8FAD8 /* AppDelegate.swift */,
 				2CEC76FA27CF621B00F8FAD8 /* SceneDelegate.swift */,
-				2CEC76FC27CF621B00F8FAD8 /* ViewController.swift */,
-				2CEC76FE27CF621B00F8FAD8 /* Main.storyboard */,
+				2C8ADEAC27CF82AD00AF9EEF /* Controllers */,
+				2C8ADEAE27CF82DD00AF9EEF /* Models */,
+				2C8ADEAD27CF82CF00AF9EEF /* Views */,
+				2C6B5A5127CFBDE900D4EC89 /* Constants.swift */,
+				2C8101AB27D06AA900069063 /* temp.swift */,
+				2C6B5A5B27CFD57A00D4EC89 /* Helpers.swift */,
 				2CEC770127CF621C00F8FAD8 /* Assets.xcassets */,
-				2CEC770327CF621C00F8FAD8 /* LaunchScreen.storyboard */,
+				2C8101AD27D0733B00069063 /* Снимок экрана 2022-03-03 в 06.53.20.png */,
 				2CEC770627CF621C00F8FAD8 /* Info.plist */,
+				2C02FDD427CF850900BC2C54 /* GoogleService-Info.plist */,
 			);
 			path = museum;
+			sourceTree = "<group>";
+		};
+		547EB10F4ED999208447FC76 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7C7632A4B13DFBD01769B3AD /* Pods-museum.debug.xcconfig */,
+				4EAF4D1CA2458BE1A6C0F213 /* Pods-museum.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		7AF94EE8B458F4A03E8CCBED /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3C71DEF8B4EBB5DC4DA81D28 /* Pods_museum.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,6 +185,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2CEC770927CF621C00F8FAD8 /* Build configuration list for PBXNativeTarget "museum" */;
 			buildPhases = (
+				6E9BBE8136570827E715A6F0 /* [CP] Check Pods Manifest.lock */,
 				2CEC76F127CF621B00F8FAD8 /* Sources */,
 				2CEC76F227CF621B00F8FAD8 /* Frameworks */,
 				2CEC76F327CF621B00F8FAD8 /* Resources */,
@@ -127,20 +239,66 @@
 			files = (
 				2CEC770527CF621C00F8FAD8 /* LaunchScreen.storyboard in Resources */,
 				2CEC770227CF621C00F8FAD8 /* Assets.xcassets in Resources */,
+				2C8101AE27D0733B00069063 /* Снимок экрана 2022-03-03 в 06.53.20.png in Resources */,
+				2C02FDD527CF850A00BC2C54 /* GoogleService-Info.plist in Resources */,
+				2C8ADEA927CF7F3600AF9EEF /* TourViewCell.xib in Resources */,
 				2CEC770027CF621B00F8FAD8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		6E9BBE8136570827E715A6F0 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-museum-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		2CEC76F127CF621B00F8FAD8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2CB730A027CFE1EC00483762 /* CountryCell.swift in Sources */,
+				2CEC770D27CF698F00F8FAD8 /* WelcomeCell.swift in Sources */,
+				2C8101B027D0833200069063 /* AboutMuseumViewController.swift in Sources */,
+				2C02FDDB27CFA85F00BC2C54 /* Showpiece.swift in Sources */,
+				2C6B5A5A27CFD23D00D4EC89 /* PopularViewCell.swift in Sources */,
+				2C8ADEA527CF7E7F00AF9EEF /* TourCell.swift in Sources */,
+				2C6B5A5827CFD06100D4EC89 /* MainViewController.swift in Sources */,
+				2C8101A827D008CF00069063 /* ReusableListCell.swift in Sources */,
+				2C8ADEA827CF7F3600AF9EEF /* TourViewCell.swift in Sources */,
 				2CEC76FD27CF621B00F8FAD8 /* ViewController.swift in Sources */,
+				2C6B5A5C27CFD57A00D4EC89 /* Helpers.swift in Sources */,
 				2CEC76F927CF621B00F8FAD8 /* AppDelegate.swift in Sources */,
+				2C8101AA27D0119E00069063 /* ShowpieceDetailsViewController.swift in Sources */,
+				2C6B5A5627CFC0B800D4EC89 /* TourDetailViewController.swift in Sources */,
+				2C8101A627CFFE7B00069063 /* ReusableTableViewController.swift in Sources */,
 				2CEC76FB27CF621B00F8FAD8 /* SceneDelegate.swift in Sources */,
+				2C8ADEAB27CF82A200AF9EEF /* TourViewController.swift in Sources */,
+				2C6B5A5427CFBDF600D4EC89 /* Tour.swift in Sources */,
+				2C8101A227CFEF7800069063 /* YearsCell.swift in Sources */,
+				2C6B5A5227CFBDE900D4EC89 /* Constants.swift in Sources */,
+				2C8101AC27D06AA900069063 /* temp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,6 +442,7 @@
 		};
 		2CEC770A27CF621C00F8FAD8 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7C7632A4B13DFBD01769B3AD /* Pods-museum.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -312,6 +471,7 @@
 		};
 		2CEC770B27CF621C00F8FAD8 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4EAF4D1CA2458BE1A6C0F213 /* Pods-museum.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
